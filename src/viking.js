@@ -91,7 +91,7 @@ class War {
   }
 
   vikingAttack() {
-    /* Pour le Bonus 5, tu peux mettre juste ca et supprimer le reste
+    /* Bonus 5:
 
     this.saxonArmy = this.attack(this.vikingArmy, this.saxonArmy)
     
@@ -115,7 +115,7 @@ class War {
   }
 
   saxonAttack() {
-    /* Pour le Bonus 5, tu peux mettre juste ca et supprimer le reste
+    /* Bonus 5:
 
     this.vikingArmy = this.attack(this.saxonArmy, this.vikingArmy)
 
